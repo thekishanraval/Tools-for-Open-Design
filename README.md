@@ -1,4 +1,4 @@
-# FOSS-Design
+# Tools for Open Design
 An awesome list of Free and Open Source design tools
 
 Graphic Design:
